@@ -2,6 +2,10 @@
 
 This project is a script designed to connect to Wi-Fi networks using either a wordlist or a randomly generated password. It is intended for educational purposes only.
 
+## Screen Shot 
+
+![Project Logo](1.jpg)
+
 ## Usage
 
 1. Clone the repository:
