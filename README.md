@@ -29,6 +29,16 @@ This project is a script designed to connect to Wi-Fi networks using either a wo
 - **Wordlist Mode**: Tries passwords from a provided wordlist.
 - **Random Password Mode**: Generates and tries random passwords of a specified length.
 
+## 💰 Support the Project
+
+If you find RedTiger useful, consider supporting its development:
+
+<p align="center">
+  <a href="https://www.paypal.com/ncp/payment/W5SHTZX6LZH86">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal" alt="PayPal">
+  </a>
+</p>
+
 ## Disclaimer
 
 This script is for educational purposes only. Unauthorized access to networks is illegal. Use this tool responsibly.
