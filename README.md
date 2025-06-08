@@ -31,7 +31,7 @@ This project is a script designed to connect to Wi-Fi networks using either a wo
 
 ## 💰 Support the Project
 
-If you find RedTiger useful, consider supporting its development:
+If you find LAKASA-WIFI useful, consider supporting its development:
 
 <p align="center">
   <a href="https://www.paypal.com/ncp/payment/W5SHTZX6LZH86">
